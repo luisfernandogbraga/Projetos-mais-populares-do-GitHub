@@ -24,4 +24,4 @@ Se você quiser contribuir para este projeto, siga os passos abaixo:
 4. Envie suas mudanças para o seu fork (`git push origin feature/nome-da-feature`).
 5. Abra um pull request neste repositório.
 
-![bADGE Finalizado](http://img.shields.io/static/v1?label=STATUS&message=EM%20FINALIZADO&color=GREEN&style=for-the-badge)
+![bADGE Finalizado](http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge)
