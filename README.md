@@ -11,7 +11,7 @@ O GitHub é o maior repositório de código aberto na internet. Nele, você pode
 4. Execute o projeto com o comando `python main.py`.
 
 <h4 align="center"> 
-    :FINISHEDn:  Projeto Finalizado  :FINISHED:
+     Projeto Finalizado  
 </h4>
 
 ## Contribuição
