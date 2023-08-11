@@ -10,10 +10,6 @@ O GitHub é o maior repositório de código aberto na internet. Nele, você pode
 3. Instale as dependências do projeto executando o comando `pip install -r requirements.txt`.
 4. Execute o projeto com o comando `python main.py`.
 
-<h4 align="center"> 
-     Projeto Finalizado  
-</h4>
-
 ## Contribuição
 
 Se você quiser contribuir para este projeto, siga os passos abaixo:
