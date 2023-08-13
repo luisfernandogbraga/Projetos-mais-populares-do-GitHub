@@ -21,3 +21,7 @@ Se você quiser contribuir para este projeto, siga os passos abaixo:
 5. Abra um pull request neste repositório.
 
 ![bADGE Finalizado](http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge)
+
+# AUTOR
+
+[<img loading="height:auto" src="https://avatars.githubusercontent.com/u/134460985?v=4" width=115><br><sub>Luis Fernando </sub>](https://github.com/luisfernandogbraga) 
