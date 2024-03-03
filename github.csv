@@ -1,11 +1,26 @@
-ranking;project;language;stars;starts_today;forks
-1;apple;Ruby;805;273;17
-2;openchatai;Blade;2385;655;191
-3;SynthstromAudible;C;178;44;20
-4;datawhalechina;Jupyter Notebook;3659;276;428
-5;hncboy;Java;940;168;341
-6;mlc-ai;Python;9428;329;600
-7;ggerganov;C;3612;673;277
-8;TransformerOptimus;Python;5593;1,818;477
-9;ciaochaos;JavaScript;2925;217;282
-10;microsoft;Jupyter Notebook;7059;292;1,391
+ranking,usuário,projeto,language,stars,stars_today,forks
+1,cloudflare , pingora,Rust,12.511,652.0,0
+2,Lissy93 , web-check,TypeScript,14.416,1.058,0
+3,polyfillpolyfill , polyfill-service,x,6.574,634.0,0
+4,HumanAIGC , EMO,x,4.858,390.0,0
+5,cloudcommunity , Free-Certifications,x,19.198,1.478,0
+6,yuzu-emu , yuzu,C++,38.541,3.99,0
+7,microsoft , generative-ai-for-beginners,Jupyter Notebook,25.402,15.987,0
+8,HumanAIGC , AnimateAnyone,x,13.452,845.0,0
+9,kyegomez , BitNet,Python,838.0,70.0,0
+10,dockur , windows,Shell,3.917,261.0,0
+11,FuelLabs , fuel-core,Rust,44.916,1.867,0
+12,dair-ai , ML-Papers-of-the-Week,x,7.397,324.0,0
+13,1c7 , chinese-independent-developer,x,29.801,2.507,0
+14,memorysafety , river,x,483.0,25.0,0
+15,Avaiga , taipy,Python,6.863,468.0,0
+16,aishwaryanr , awesome-generative-ai-guide,x,944.0,194.0,0
+17,wazuh , wazuh,C,8.654,1.373,0
+18,myshell-ai , MeloTTS,Python,1.156,130.0,0
+19,pure-admin , vue-pure-admin,Vue,12.774,2.461,0
+20,python-poetry , poetry,Python,28.801,2.163,0
+21,microsoft , unilm,Python,17.538,2.286,0
+22,redis , ioredis,TypeScript,13.313,1.135,0
+23,FuelLabs , fuels-rs,Rust,35.471,961.0,0
+24,ossu , computer-science,x,159.817,20.02,0
+25,embedchain , embedchain,Python,7.987,949.0,0
