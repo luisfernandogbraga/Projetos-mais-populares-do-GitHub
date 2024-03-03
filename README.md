@@ -1,6 +1,10 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/luisfernandogbraga?style=social)
 
 <h1 align="center"> Projetos-mais-populares-do-GitHub </h1> 
+
+![GitHub-Logo-2008-2013](https://github.com/luisfernandogbraga/Projetos-mais-populares-do-GitHub/assets/134460985/a43b95b4-5d07-46c6-a34e-6c693db55c42)
+
+
 O GitHub é o maior repositório de código aberto na internet. Nele, você pode encontrar o código fonte de diversos projetos, como o Pandas. O GitHub apresenta uma página de projetos em destaque, que são os projetos que estão recebendo muita atenção da comunidade. 
 
 ## Como executar o projeto
