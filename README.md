@@ -32,7 +32,8 @@ Se você quiser contribuir para este projeto, siga os passos abaixo:
 
 ## ANALISES
 
-![output](https://github.com/luisfernandogbraga/Projetos-mais-populares-do-GitHub/assets/134460985/1f8e547f-edcd-47be-87d3-5580edae00a3)
+![output](https://github.com/luisfernandogbraga/Projetos-mais-populares-do-GitHub/assets/134460985/a76c8349-542b-4c9a-9041-e3f7c195c65a)
 
-![output](https://github.com/luisfernandogbraga/Projetos-mais-populares-do-GitHub/assets/134460985/b77b8d29-382b-49d5-820d-6e44d8c23f73)
+![output](https://github.com/luisfernandogbraga/Projetos-mais-populares-do-GitHub/assets/134460985/4cc5d8d4-5041-4482-a4b8-6c26489b4541)
+
 
