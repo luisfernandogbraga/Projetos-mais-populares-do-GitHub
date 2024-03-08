@@ -1,26 +1,26 @@
-ranking;project;language;stars;stars_today;forks
-1;Ryujinx / Ryujinx;C#;28,900;466;3,172
-2;abi / screenshot-to-code;TypeScript;42,393;1;4,967
-3;naver / dust3r;Python;2,786;380;303
-4;vikhyat / moondream;Python;2,446;99;201
-5;Loyalsoldier / clash-rules;None;15,057;108;1,267
-6;dolphin-emu / dolphin;C++;11,741;50;2,501
-7;huchenlei / ComfyUI-layerdiffuse;Python;520;184;59
-8;atherosai / ui;HTML;2,556;164;494
-9;yuzu-mirror / yuzu;C++;1,335;573;1,006
-10;PabloMK7 / citra;C++;584;148;308
-11;pineappleEA / pineapple-src;C++;5,255;356;1,137
-12;Ryujinx / release-channel-master;Python;951;17;76
-13;Unity-Technologies / EntityComponentSystemSamples;C#;6,668;22;1,506
-14;zijie0 / HumanSystemOptimization;None;11,895;48;868
-15;dair-ai / ML-Papers-of-the-Week;None;8,075;229;437
-16;nikic / PHP-Parser;PHP;16,668;101;1,004
-17;openai-translator / openai-translator;TypeScript;21,494;137;1,570
-18;GrowingGit / GitHub-Chinese-Top-Charts;Java;85,345;311;11,717
-19;vosen / ZLUDA;Rust;6,493;167;328
-20;nvim-lua / kickstart.nvim;Lua;12,504;136;7,862
-21;gradio-app / gradio;Python;26,941;42;1,934
-22;Atmosphere-NX / Atmosphere;C++;13,371;23;1,146
-23;QwenLM / Qwen-Agent;Python;831;13;83
-24;onevcat / Kingfisher;Swift;22,103;13;2,473
-25;cemu-project / Cemu;C++;6,124;28;441
+ranking,user,project,language,stars,stars_today,forks
+1,VAST-AI-Research , TripoSR,Python,1.518,222 stars today,174.0
+2,HeyPuter , puter,JavaScript,4.912,740 stars today,199.0
+3,hpcaitech , Open-Sora,Python,1.161,205 stars today,97.0
+4,vosen , ZLUDA,Rust,6.725,197 stars today,365.0
+5,Crimson-Hawk , suyu,C++,564.0,69 stars today,216.0
+6,microsoft , generative-ai-for-beginners,Jupyter Notebook,27.8,237 stars today,16.802
+7,Loyalsoldier , clash-rules,,15.299,253 stars today,1.317
+8,rasbt , LLMs-from-scratch,Jupyter Notebook,10.087,170 stars today,697.0
+9,atherosai , ui,HTML,2.716,151 stars today,532.0
+10,PKU-YuanGroup , Open-Sora-Plan,Python,4.992,234 stars today,438.0
+11,nikic , PHP-Parser,PHP,16.718,61 stars today,1.041
+12,Ryujinx , Ryujinx,C#,30.124,2.192 stars today,3.342
+13,onevcat , Kingfisher,Swift,22.199,91 stars today,2.511
+14,max32002 , tixcraft_bot,JavaScript,1.434,23 stars today,233.0
+15,yuzu-mirror , yuzu,C++,1.694,512 stars today,1.153
+16,yuzu-mirror , yuzu-downloads,,245.0,50 stars today,165.0
+17,vikhyat , moondream,Python,2.724,316 stars today,228.0
+18,bgstaal , multipleWindow3dScene,JavaScript,15.188,112 stars today,2.332
+19,langchain4j , langchain4j,Java,2.039,20 stars today,352.0
+20,gradio-app , gradio,Python,27.121,175 stars today,1.958
+21,huchenlei , ComfyUI-layerdiffuse,Python,627.0,120 stars today,90.0
+22,iam-veeramalla , aws-devops-zero-to-hero,Python,4.45,21 stars today,5.402
+23,barry-ran , QtScrcpy,Java,14.703,125 stars today,2.084
+24,snipe , snipe-it,PHP,9.34,22 stars today,2.886
+25,dair-ai , ML-Papers-of-the-Week,,8.263,216 stars today,462.0
