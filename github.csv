@@ -1,26 +1,26 @@
 ranking,user,project,language,stars,stars_today,forks
-1,VAST-AI-Research , TripoSR,Python,1.518,222 stars today,174.0
-2,HeyPuter , puter,JavaScript,4.912,740 stars today,199.0
-3,hpcaitech , Open-Sora,Python,1.161,205 stars today,97.0
-4,vosen , ZLUDA,Rust,6.725,197 stars today,365.0
-5,Crimson-Hawk , suyu,C++,564.0,69 stars today,216.0
-6,microsoft , generative-ai-for-beginners,Jupyter Notebook,27.8,237 stars today,16.802
-7,Loyalsoldier , clash-rules,,15.299,253 stars today,1.317
-8,rasbt , LLMs-from-scratch,Jupyter Notebook,10.087,170 stars today,697.0
-9,atherosai , ui,HTML,2.716,151 stars today,532.0
-10,PKU-YuanGroup , Open-Sora-Plan,Python,4.992,234 stars today,438.0
-11,nikic , PHP-Parser,PHP,16.718,61 stars today,1.041
-12,Ryujinx , Ryujinx,C#,30.124,2.192 stars today,3.342
-13,onevcat , Kingfisher,Swift,22.199,91 stars today,2.511
-14,max32002 , tixcraft_bot,JavaScript,1.434,23 stars today,233.0
-15,yuzu-mirror , yuzu,C++,1.694,512 stars today,1.153
-16,yuzu-mirror , yuzu-downloads,,245.0,50 stars today,165.0
-17,vikhyat , moondream,Python,2.724,316 stars today,228.0
-18,bgstaal , multipleWindow3dScene,JavaScript,15.188,112 stars today,2.332
-19,langchain4j , langchain4j,Java,2.039,20 stars today,352.0
-20,gradio-app , gradio,Python,27.121,175 stars today,1.958
-21,huchenlei , ComfyUI-layerdiffuse,Python,627.0,120 stars today,90.0
-22,iam-veeramalla , aws-devops-zero-to-hero,Python,4.45,21 stars today,5.402
-23,barry-ran , QtScrcpy,Java,14.703,125 stars today,2.084
-24,snipe , snipe-it,PHP,9.34,22 stars today,2.886
-25,dair-ai , ML-Papers-of-the-Week,,8.263,216 stars today,462.0
+1,atherosai , ui,HTML,2.947,205 stars today,583.0
+2,onevcat , Kingfisher,Swift,22.313,142 stars today,2.551
+3,Ryujinx , Ryujinx,C#,30.309,455 stars today,3.381
+4,emoisback , Helldivers-2-Internal-Hack-Dll-Proxy-PoC,C++,101.0,32 stars today,160.0
+5,rasbt , LLMs-from-scratch,Jupyter Notebook,10.282,358 stars today,743.0
+6,boxyhq , saas-starter-kit,TypeScript,1.588,54 stars today,320.0
+7,QwenLM , Qwen-Agent,Python,1.036,53 stars today,111.0
+8,bgstaal , multipleWindow3dScene,JavaScript,15.269,187 stars today,2.369
+9,google , maxtext,Python,636.0,11 stars today,92.0
+10,VAST-AI-Research , TripoSR,Python,2.2,1.298 stars today,250.0
+11,nikic , PHP-Parser,PHP,16.747,77 stars today,1.06
+12,BeyondDimension , SteamTools,C#,17.648,33 stars today,1.094
+13,daytonaio , daytona,Go,2.287,689 stars today,55.0
+14,midudev , la-velada-web-oficial,Astro,707.0,41 stars today,348.0
+15,gptscript-ai , gptscript,Go,1.813,40 stars today,149.0
+16,langchain4j , langchain4j,Java,2.138,149 stars today,385.0
+17,barry-ran , QtScrcpy,Java,14.872,261 stars today,2.104
+18,abi , screenshot-to-code,Python,43.706,350 stars today,5.111
+19,gradio-app , gradio,Python,27.25,228 stars today,1.979
+20,argoproj , argo-cd,Go,15.66,17 stars today,4.7
+21,anthropics , anthropic-cookbook,Jupyter Notebook,567.0,37 stars today,62.0
+22,ixartz , Next-js-Boilerplate,TypeScript,6.134,83 stars today,1.185
+23,munris-vlad , airdrop-checker,JavaScript,61.0,1 star today,49.0
+24,QuivrHQ , quivr,TypeScript,28.901,57 stars today,2.805
+25,SDWebImage , SDWebImage,Objective-C,24.78,4 stars today,5.896
